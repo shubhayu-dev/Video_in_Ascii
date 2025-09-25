@@ -1,0 +1,3 @@
+cython
+argparse
+yt-dlp

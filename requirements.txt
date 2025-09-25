@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pygame
+scipy
+scikit-learn
+yt-dlp
+
+For Windows users, install curses separately:
+pip install windows-curses
